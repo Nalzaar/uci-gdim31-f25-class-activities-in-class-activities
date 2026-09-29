@@ -1,7 +1,8 @@
 # in-class-activities
 ## Devlogs
 ### W1
-Hello World!
+1. After moving the camera off of the Cat GameObject, the camera stays in place when running the game. When it was a child of the Cat, it's position was bound to the position of the cat.
+2. https://nalzaar.itch.io/w1-in-class-activity
 
 ### W2
 Create future Devlog sub-headers with the three # symbols, then write your Devlogs below them.
