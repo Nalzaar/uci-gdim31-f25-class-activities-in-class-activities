@@ -7,7 +7,7 @@
 ### W2
 1. The r, g, and b variables are floats instead of ints, bools, and strings because the numbers they have to deal with are decimals numbers. Ints are used for whole numbers and wouldn't be able to take the exact values that are required. Bools just deem if certain conditions are true or false, while strings are meant moreso for text.
 2. The _bounce variable is an int instead of a float, bool, or string because the code makes use of math and it increments by 1, which is a whole number. Bools and strings aren't used for the same reasons specified above. Andd float isn't used because it isn't necessary as the variable keeps track of whole numbers.
-3. It said that it "cannot implicitly convert type 'double' to 'float'." It pretty much understood that I wanted to subtract a decimal value, but because g was a float it couldn't really do so because the 0.1 wasn't marked as a float.
+3. It said that it expected a semicolon. That is probably because to end a line of code, a semicolon is necessary to end the statement.
 
 ### W3
 
