@@ -10,6 +10,20 @@
 3. It said that it expected a semicolon. That is probably because to end a line of code, a semicolon is necessary to end the statement.
 
 ### W3
+Table #4
+
+Activity 1:
+1. The parameters of this method would be the current friendship level which would be either a 'int' or 'float' depending on the the types of numbers used, and the flag that tells you whether or not the player knows the character’s secret which would have to be a bool to test whether it's true or false. Considering that the goal of this method is to get a text response, the return type should be a 'string'.
+2. The parameters of this method would be the sanity level which would either be a 'int' or 'float' depending on the the types of numbers used. The return type would be a 'void' as the method doesn't need any output.
+3. The parameters of this method would be the time which would either be a 'int' or 'float' depending on the the types of numbers used. The return type would be a 'bool' as the method wants to test if the key was pressed on time or not.
+
+Activity 2:
+The class is like a recipe for a taco, while the component is the final version of a complete taco. The member variables are ingredients that can change how the final product will look and taste, while the methods are the individual instructions on the recipe.
+
+Activity 3:
+I think the balls get extremely bright if they bounce too many times because their color changes based on their speed, and said speed increases with each bounce.
+
+### W4
 
 ## Open-Source Assets
 ### W1
