@@ -24,6 +24,11 @@ Activity 3:
 I think the balls get extremely bright if they bounce too many times because their color changes based on their speed, and said speed increases with each bounce.
 
 ### W4
+Table #14
+1. I added Rigidbodies to both the Cat and the Soccer Ball considering they were the only objects that needed to move. For IsTrigger, you need a way to keep track of goals made, so the goal post has it on, while the other two objects need to make contact and so they have it off.
+2. I accidentally put the points to update to the time value instead of giving the time text the value and just needed to fix that. The other issue I had was knowing how to use methods.
+
+### W5
 
 ## Open-Source Assets
 ### W1
