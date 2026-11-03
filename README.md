@@ -28,7 +28,10 @@ Table #14
 1. I added Rigidbodies to both the Cat and the Soccer Ball considering they were the only objects that needed to move. For IsTrigger, you need a way to keep track of goals made, so the goal post has it on, while the other two objects need to make contact and so they have it off.
 2. I accidentally put the points to update to the time value instead of giving the time text the value and just needed to fix that. The other issue I had was knowing how to use methods.
 
-### W5
+### W6
+The member variables this class needs are the same four that CatW5 has, but also a member variable for targeting. The methods this class needs are the Start() and Update() methods. The Start() method should tell the Deer what to target while the Update() should have it continuously going after its target.
+
+### W7
 
 ## Open-Source Assets
 ### W1
