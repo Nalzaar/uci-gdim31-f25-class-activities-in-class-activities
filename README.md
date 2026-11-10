@@ -32,6 +32,12 @@ Table #14
 The member variables this class needs are the same four that CatW5 has, but also a member variable for targeting. The methods this class needs are the Start() and Update() methods. The Start() method should tell the Deer what to target while the Update() should have it continuously going after its target.
 
 ### W7
+General C# Coding Category
+https://docs.google.com/document/d/1R_bArpdyWDk7oLt_Y6eFAooJNsrQ6vkbxEgePz7vyaA/edit?tab=t.0
+
+1. The member variables that this class needs are a variable for speed, a transform, and a bool to control whether the bat should be chasing or not.
+2. The methods this class needs are Update(), and two to control the chasing.
+3. Update() is used to check and make the bats chase the player, one of the other methods starts the chase while the other method ends it.
 
 ## Open-Source Assets
 ### W1
