@@ -39,6 +39,11 @@ https://docs.google.com/document/d/1R_bArpdyWDk7oLt_Y6eFAooJNsrQ6vkbxEgePz7vyaA/
 2. The methods this class needs are Update(), and two to control the chasing.
 3. Update() is used to check and make the bats chase the player, one of the other methods starts the chase while the other method ends it.
 
+### W9
+https://docs.google.com/drawings/d/1KdSMfisJHSOCmnhWZA1Yf9HYNbidoKUdF6Uc06t3BdI/edit
+- Worked on setting up a basic environment.
+- Started writing code for instructions that I instantly understood.
+
 ## Open-Source Assets
 ### W1
 - Animals: https://assetstore.unity.com/packages/3d/characters/animals/animals-free-animated-low-poly-3d-models-260727 
